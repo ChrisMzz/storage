@@ -1,2 +1,2 @@
-# L3 Maths S5 info
- To store my school work
+# Storage
+ To store my files for uni projects
